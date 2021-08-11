@@ -1,0 +1,36 @@
+57:06
+
+234, 187, 0
+
+208, 166, 0
+
+
+
+
+dropdown = qtw.QComboBox(self, editable = True, insertPolicy = qtw.QComboBox.InsertAtBottom)
+            #items
+            dropdown.addItem('James', 17) #add individual item >>dropdown.addItem(item, data)
+            dropdown.addItem('Alex', 13) #add individual item >>dropdown.addItem(item, data)
+            dropdown.addItems(['Harry', 'Jack']) #add multiple items
+            dropdown.insertItem(4, 'John') #insert item at a particular index >>dropdown.insertItem(position, item)
+            dropdown.insertItems(2, ['John', 'Lucy']) #insert multiple items from a particular index
+
+
+
+
+
+
+
+
+
+
+
+FFDBDB
+ECBD00
+DEB200
+
+
+
+FFCC00
+FFDC4F
+
